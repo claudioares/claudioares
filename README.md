@@ -21,5 +21,5 @@
 
 ## Formação:
 
-#### 👨‍🎓Desenvolvimento de software - Cubos Academy
-#### 👨‍🎓Graduando em Inteligencia Artificil - UNICID
+#### 👨‍🎓 | Desenvolvimento de software - Cubos Academy
+#### 👨‍🎓 | Graduando em Inteligencia Artificial - UNICID
