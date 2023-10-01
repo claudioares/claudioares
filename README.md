@@ -7,6 +7,7 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1"/>
     <img alt="TYPESCRIPT" src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=F8DF5"/>
+    <img alt="PYTHON" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F8DF5"/>
     <img alt="react" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=F8DF5"/>
     <img alt="nodejs" src="https://img.shields.io/badge/nodejs-323230?style=for-the-badge&logo=nodejs&logoColor=white"/>
     <img alt="mongodb" src="https://img.shields.io/badge/mongodb-323230?style=for-the-badge&logo=mongodb&logoColor=white"/>
