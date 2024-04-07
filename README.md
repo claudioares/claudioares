@@ -24,3 +24,4 @@
 
 #### 👨‍🎓 | Desenvolvimento de software - Cubos Academy
 #### 👨‍🎓 | Graduando em Inteligencia Artificial - UNICID
+#### 👨‍🎓 | Projeto ONE - Oracle Next Education/ Alura - Escola de tecnológia
