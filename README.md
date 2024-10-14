@@ -1,3 +1,5 @@
+[English Version](README.en.md)
+
 <h1 align="center">🧑‍💻 Desenvolvedor Full Stack | JavaScript | TypeScript | Node.js | React<h1>
 
 <h2 align="center">Olá, eu sou o Cláudio. Muito prazer! 👋👋</h2>
